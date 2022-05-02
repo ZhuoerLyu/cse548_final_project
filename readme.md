@@ -1,4 +1,4 @@
-# Malicious Subdomains Detection using Amass and Fingerprints
+# Subdomain Takeover Detection using Amass and Fingerprints
 This project is the final project of ***CSE 548: Advandced Computer Network Security***.
 
 In this project, we are trying to identify some subdomains that could post some threats in future.
